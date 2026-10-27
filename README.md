@@ -1,3 +1,14 @@
+> **About this fork**
+>
+> This fork exists only to send pull requests to [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol).
+> It does not contain DRT product code. DRT's ground-control software is kept in a separate private repository.
+> Past pull request: [mavlink/qgroundcontrol#13498](https://github.com/mavlink/qgroundcontrol/pull/13498) (Windows executable icon, closed without merge).
+> `master` mirrors upstream `master`; new pull-request branches start from the latest upstream `master`.
+>
+> 이 포크는 mavlink/qgroundcontrol 에 pull request 를 보내기 위해서만 쓴다. DRT 제품 코드는 여기에 없고, DRT 지상 제어 프로그램은 별도의 비공개 저장소에서 관리한다.
+
+---
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dronecode/UX-Design/35d8148a8a0559cd4bcf50bfa2c94614983cce91/QGC/Branding/Deliverables/QGC_RGB_Logo_Horizontal_Positive_PREFERRED/QGC_RGB_Logo_Horizontal_Positive_PREFERRED.svg" alt="QGroundControl Logo" width="500">
